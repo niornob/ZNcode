@@ -1,0 +1,118 @@
+\documentclass[dvipsnames,a4paper]{article}
+
+\usepackage[a4paper, margin=1.1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{amsmath,amssymb,amsthm,mathtools,mathrsfs,bm}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{pdflscape}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit,calc,fadings}
+\usepackage{tikz-cd}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{authblk}
+\usepackage{braket}
+\usepackage{subcaption}
+%\usepackage[notref, notcite]{showkeys}
+\numberwithin{equation}{section}
+\usepackage[en-MT]{datetime2}
+\DTMsetstyle{en-MT-numeric}
+\usepackage[
+backend=biber,
+style=phys,
+maxbibnames=99,
+doi=true,
+eprint=true,
+giveninits=true
+]{biblatex}
+\addbibresource{refs_qec.bib}
+
+\definecolor{myblue}{HTML}{0251D9}
+\definecolor{mygreen}{HTML}{10C902}
+\definecolor{myred}{HTML}{D90251}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=myblue,
+	citecolor=mygreen,
+	urlcolor=myred
+}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{cor}[theorem]{Corollary}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{assumption}[theorem]{Assumption}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+
+
+\title{A polymer gas approach to $\mathbb Z_N$ homological quantum codes}
+%\date{Time of compilation: \DTMnow}
+
+\renewcommand{\Authfont}{\normalsize\bfseries}
+\renewcommand{\Affilfont}{\small\normalfont\itshape}
+\setlength{\affilsep}{0.5em}
+
+\author[1,2]{Nafiz Ishtiaque\thanks{\texttt{nafiz@simis.cn}}}
+\author[3]{ Shanto Chakroborty}
+
+\affil[1]{Center for Mathematics and Interdisciplinary Sciences, Fudan University, Shanghai, China}
+\affil[2]{Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), Shanghai, China}
+\affil[3]{Department of Theoretical Physics, University of Dhaka, Dhaka, Bangladesh}
+
+\date{}
+
+
+
+
+
+\newcommand{\Hom}{\mathrm{Hom}}
+\newcommand{\Lk}{\mathrm{Lk}}
+\newcommand{\tr}{\mathrm{tr}}
+\newcommand{\Supp}{\mathrm{Supp}}
+\newcommand{\matrixel}[3]{\left\langle #1 \middle| #2 \middle| #3 \right\rangle}
+\newcommand{\wt}{\mathrm{wt}}
+\newcommand{\Sus}{\operatorname{Sus}}
+
+\newcommand{\resolveNI}[1]{{\color{red}[NI:#1]}}
+\newcommand{\REF}{{\color{red}[REF]}}
+
+\setcounter{tocdepth}{2}
+
+
+
+
+
+
+\begin{document}
+	\maketitle
+	
+	
+\begin{abstract}
+	We study finite-temperature \(P\)-form \(\mathbb Z_N\) homological codes via an exact finite-Trotter quantum-to-classical map to a \((d+1)\)-dimensional spacetime model with electric and magnetic topological background charges. We show that these background-dependent partition functions admit an exact reformulation as a gas of closed magnetic and electric defect polymers that interact via linking phases. By bounding this complex polymer gas by positive same-species hard-core majorants, we derive an explicit low-activity criterion under which all background-dependent partition functions are uniformly controlled and homologically nontrivial polymers are exponentially suppressed on the scale of the spacetime systole. We also derive an exact higher-form Kramers--Wannier duality exchanging electric and magnetic backgrounds, Wilson and 't Hooft operators, and \(P\)-form and \((d-P)\)-form theories. Finally, for prime \(N\), we identify an exact source-free gauge specialization coupled to the plaquette random-cluster model; on special geometries this connection brings sharp phase-transition results into the spacetime framework.
+\end{abstract}
+	
+	\tableofcontents
+
+
+
+\input{draft-sections}
+
+
+
+%\bibliographystyle{utphys}
+%\bibliography{refs_qec}
+\printbibliography
+	
+	
+\end{document}
+

@@ -1,0 +1,1771 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Kitaev:1997wr}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=34266a35eedbd87dd79c5e408127a5e5}{%
+           family={Kitaev},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi Yu.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{fullhash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{fullhashraw}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{bibnamehash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{authorbibnamehash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{authornamehash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{authorfullhash}{34266a35eedbd87dd79c5e408127a5e5}
+      \strng{authorfullhashraw}{34266a35eedbd87dd79c5e408127a5e5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Annals Phys.}
+      \field{title}{{Fault tolerant quantum computation by anyons}}
+      \field{volume}{303}
+      \field{year}{2003}
+      \field{pages}{2\bibrangedash 30}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1016/S0003-4916(02)00018-0
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/9707021
+      \endverb
+    \endentry
+    \entry{freedman2002}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{hash=075e60b76c9aa285d32bc352e186eeed}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=02937a7be77f4eadaa3327065fa975cc}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=036b60c7b546499099483e479b2ebb5a}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English (US)}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f9f7af0cebd729c936d5e8e012b0eeae}
+      \strng{fullhash}{25168f8cbf429457ad65eab542b7d9f0}
+      \strng{fullhashraw}{25168f8cbf429457ad65eab542b7d9f0}
+      \strng{bibnamehash}{25168f8cbf429457ad65eab542b7d9f0}
+      \strng{authorbibnamehash}{25168f8cbf429457ad65eab542b7d9f0}
+      \strng{authornamehash}{f9f7af0cebd729c936d5e8e012b0eeae}
+      \strng{authorfullhash}{25168f8cbf429457ad65eab542b7d9f0}
+      \strng{authorfullhashraw}{25168f8cbf429457ad65eab542b7d9f0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mathematics of Quantum Computation}
+      \field{isbn}{1584882824}
+      \field{month}{1}
+      \field{note}{Publisher Copyright: {©} 2002 by Chapman \& Hall/CRC.}
+      \field{title}{Z2-systolic freedom and quantum codes}
+      \field{year}{2002}
+      \field{pages}{287\bibrangedash 320}
+      \range{pages}{34}
+    \endentry
+    \entry{DennisKitaevLandahlPreskill2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=dced92add8fb8ae4e0ad5c9ec0441dd3}{%
+           family={Dennis},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=59949d44a3903dfabb88bff3220ff2e0}{%
+           family={Kitaev},
+           familyi={K\bibinitperiod},
+           given={Alexei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2328e05dce09da171f880475d169708}{%
+           family={Landahl},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fbe61da8813855105d0c727fa93b4b4d}{%
+           family={Preskill},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{894d9e7842dead2ca68c4a717b5ea22a}
+      \strng{fullhash}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \strng{fullhashraw}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \strng{bibnamehash}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \strng{authorbibnamehash}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \strng{authornamehash}{894d9e7842dead2ca68c4a717b5ea22a}
+      \strng{authorfullhash}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \strng{authorfullhashraw}{282ea8a0ad5aa187ef091b089dad9ab1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{J. Math. Phys.}
+      \field{title}{{Topological quantum memory}}
+      \field{volume}{43}
+      \field{year}{2002}
+      \field{pages}{4452\bibrangedash 4505}
+      \range{pages}{54}
+      \verb{doi}
+      \verb 10.1063/1.1499754
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/0110143
+      \endverb
+    \endentry
+    \entry{BombinMartinDelgado2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=98ae8be70d3d42dc4f2766ef6cd717c6}{%
+           family={Bombin},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=48255ed776ab82d9f91732301ce1dbcf}{%
+           family={Martin-Delgado},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{fullhash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{fullhashraw}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{bibnamehash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{authorbibnamehash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{authornamehash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{authorfullhash}{ec919ef740a9d29990d83ffffaec626b}
+      \strng{authorfullhashraw}{ec919ef740a9d29990d83ffffaec626b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{J. Math. Phys.}
+      \field{title}{{Homological error correction: Classical and quantum codes}}
+      \field{volume}{48}
+      \field{year}{2007}
+      \field{pages}{052105}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.2731356
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/0605094
+      \endverb
+    \endentry
+    \entry{Terhal:2013vbm}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ae66a23883f73a4e22b077d8eaad3b88}{%
+           family={Terhal},
+           familyi={T\bibinitperiod},
+           given={Barbara\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{fullhash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{fullhashraw}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{bibnamehash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{authorbibnamehash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{authornamehash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{authorfullhash}{ae66a23883f73a4e22b077d8eaad3b88}
+      \strng{authorfullhashraw}{ae66a23883f73a4e22b077d8eaad3b88}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{number}{2}
+      \field{title}{{Quantum error correction for quantum memories}}
+      \field{volume}{87}
+      \field{year}{2015}
+      \field{pages}{307}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.87.307
+      \endverb
+      \verb{eprint}
+      \verb 1302.3428
+      \endverb
+    \endentry
+    \entry{Wegner:1971app}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a67b3049efaaea29bcd495221e96f80c}{%
+           family={Wegner},
+           familyi={W\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{fullhash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{fullhashraw}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{bibnamehash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{authorbibnamehash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{authornamehash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{authorfullhash}{a67b3049efaaea29bcd495221e96f80c}
+      \strng{authorfullhashraw}{a67b3049efaaea29bcd495221e96f80c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Math. Phys.}
+      \field{title}{{Duality in Generalized Ising Models and Phase Transitions Without Local Order Parameters}}
+      \field{volume}{12}
+      \field{year}{1971}
+      \field{pages}{2259\bibrangedash 2272}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1063/1.1665530
+      \endverb
+    \endentry
+    \entry{Savit1980}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=450296492455d278caafbf8e466c0f57}{%
+           family={Savit},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{450296492455d278caafbf8e466c0f57}
+      \strng{fullhash}{450296492455d278caafbf8e466c0f57}
+      \strng{fullhashraw}{450296492455d278caafbf8e466c0f57}
+      \strng{bibnamehash}{450296492455d278caafbf8e466c0f57}
+      \strng{authorbibnamehash}{450296492455d278caafbf8e466c0f57}
+      \strng{authornamehash}{450296492455d278caafbf8e466c0f57}
+      \strng{authorfullhash}{450296492455d278caafbf8e466c0f57}
+      \strng{authorfullhashraw}{450296492455d278caafbf8e466c0f57}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{month}{4}
+      \field{title}{Duality in field theory and statistical systems}
+      \field{volume}{52}
+      \field{year}{1980}
+      \field{pages}{453\bibrangedash 487}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.52.453
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.52.453
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.52.453
+      \endverb
+    \endentry
+    \entry{WangHarringtonPreskill2003}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2521c2fcb663069c2c5eb6a313e7748f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chenyang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ee69db6ef2eb18fe423c7f0c3e41878}{%
+           family={Harrington},
+           familyi={H\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fbe61da8813855105d0c727fa93b4b4d}{%
+           family={Preskill},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9736fb2441f4c7ac3a802615b8be8055}
+      \strng{fullhash}{9fe3266b717e9ec333a48e427a16c4a8}
+      \strng{fullhashraw}{9fe3266b717e9ec333a48e427a16c4a8}
+      \strng{bibnamehash}{9fe3266b717e9ec333a48e427a16c4a8}
+      \strng{authorbibnamehash}{9fe3266b717e9ec333a48e427a16c4a8}
+      \strng{authornamehash}{9736fb2441f4c7ac3a802615b8be8055}
+      \strng{authorfullhash}{9fe3266b717e9ec333a48e427a16c4a8}
+      \strng{authorfullhashraw}{9fe3266b717e9ec333a48e427a16c4a8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Annals Phys.}
+      \field{title}{{Confinement Higgs transition in a disordered gauge theory and the accuracy threshold for quantum memory}}
+      \field{volume}{303}
+      \field{year}{2003}
+      \field{pages}{31\bibrangedash 58}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1016/S0003-4916(02)00019-2
+      \endverb
+      \verb{eprint}
+      \verb quant-ph/0207088
+      \endverb
+    \endentry
+    \entry{Nussinov:2007srh}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=095320c9f48525a4d4c406f6c262855e}{%
+           family={Nussinov},
+           familyi={N\bibinitperiod},
+           given={Zohar},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b3d6cc1d1d3979c9e844372b1d6d80b1}{%
+           family={Ortiz},
+           familyi={O\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{fullhash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{fullhashraw}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{bibnamehash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{authorbibnamehash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{authornamehash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{authorfullhash}{6ca81a001882f7a456d2394fba04d8fe}
+      \strng{authorfullhashraw}{6ca81a001882f7a456d2394fba04d8fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{number}{6}
+      \field{title}{{Autocorrelations and thermal fragility of anyonic loops in topologically quantum ordered systems}}
+      \field{volume}{77}
+      \field{year}{2008}
+      \field{pages}{064302}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.77.064302
+      \endverb
+      \verb{eprint}
+      \verb 0709.2717
+      \endverb
+    \endentry
+    \entry{Castelnovo:2007byc}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f055ee198499edd2444c6af20f4cfa0a}{%
+           family={Castelnovo},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=90f2e451f3aaa8888f0c11b3b958beda}{%
+           family={Chamon},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{fullhash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{fullhashraw}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{bibnamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorbibnamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authornamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorfullhash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorfullhashraw}{f6ba0c5f9ecde95339d490558b838fec}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{number}{18}
+      \field{title}{{Entanglement and topological entropy of the toric code at finite temperature}}
+      \field{volume}{76}
+      \field{year}{2007}
+      \field{pages}{184442}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.76.184442
+      \endverb
+      \verb{eprint}
+      \verb 0704.3616
+      \endverb
+    \endentry
+    \entry{Castelnovo:2008jyy}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f055ee198499edd2444c6af20f4cfa0a}{%
+           family={Castelnovo},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=90f2e451f3aaa8888f0c11b3b958beda}{%
+           family={Chamon},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{fullhash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{fullhashraw}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{bibnamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorbibnamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authornamehash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorfullhash}{f6ba0c5f9ecde95339d490558b838fec}
+      \strng{authorfullhashraw}{f6ba0c5f9ecde95339d490558b838fec}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. B}
+      \field{number}{15}
+      \field{title}{{Topological order in a three-dimensional toric code at finite temperature}}
+      \field{volume}{78}
+      \field{year}{2008}
+      \field{pages}{155120}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.78.155120
+      \endverb
+      \verb{eprint}
+      \verb 0804.3591
+      \endverb
+    \endentry
+    \entry{Bravyi:2008rvr}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=964ccce884d5c27e980e285b18d587cd}{%
+           family={Bravyi},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=de6c99dcecb3423585765e2439e3447f}{%
+           family={Terhal},
+           familyi={T\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{fullhash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{fullhashraw}{0909e990d5af95e9458498f21ad6024c}
+      \strng{bibnamehash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{authorbibnamehash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{authornamehash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{authorfullhash}{0909e990d5af95e9458498f21ad6024c}
+      \strng{authorfullhashraw}{0909e990d5af95e9458498f21ad6024c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{New J. Phys.}
+      \field{number}{4}
+      \field{title}{{A no-go theorem for a two-dimensional self-correcting quantum memory based on stabilizer codes}}
+      \field{volume}{11}
+      \field{year}{2009}
+      \field{pages}{043029}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/11/4/043029
+      \endverb
+      \verb{eprint}
+      \verb 0810.1983
+      \endverb
+    \endentry
+    \entry{Bravyi:2009ert}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=964ccce884d5c27e980e285b18d587cd}{%
+           family={Bravyi},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7575941816e4f25600383f3d6cf5051f}{%
+           family={Poulin},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=de6c99dcecb3423585765e2439e3447f}{%
+           family={Terhal},
+           familyi={T\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{84579f3f095941cba9a7e3acf22af7fc}
+      \strng{fullhash}{a5a2e640389ac8b0f177f29c0be7040a}
+      \strng{fullhashraw}{a5a2e640389ac8b0f177f29c0be7040a}
+      \strng{bibnamehash}{a5a2e640389ac8b0f177f29c0be7040a}
+      \strng{authorbibnamehash}{a5a2e640389ac8b0f177f29c0be7040a}
+      \strng{authornamehash}{84579f3f095941cba9a7e3acf22af7fc}
+      \strng{authorfullhash}{a5a2e640389ac8b0f177f29c0be7040a}
+      \strng{authorfullhashraw}{a5a2e640389ac8b0f177f29c0be7040a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{number}{5}
+      \field{title}{{Tradeoffs for Reliable Quantum Information Storage in 2D Systems}}
+      \field{volume}{104}
+      \field{year}{2010}
+      \field{pages}{050503}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.104.050503
+      \endverb
+      \verb{eprint}
+      \verb 0909.5200
+      \endverb
+    \endentry
+    \entry{Hastings:2011iig}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=2b6ced7ad9a68118cdd8e4199aabebae}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{fullhash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{fullhashraw}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{bibnamehash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{authorbibnamehash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{authornamehash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{authorfullhash}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \strng{authorfullhashraw}{2b6ced7ad9a68118cdd8e4199aabebae}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{number}{21}
+      \field{title}{{Topological Order at Nonzero Temperature}}
+      \field{volume}{107}
+      \field{year}{2011}
+      \field{pages}{210501}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.107.210501
+      \endverb
+      \verb{eprint}
+      \verb 1106.6026
+      \endverb
+    \endentry
+    \entry{Landon-Cardinal:2012nio}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=fcff4287a7b182fedb406c64bf08444a}{%
+           family={Landon-Cardinal},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7575941816e4f25600383f3d6cf5051f}{%
+           family={Poulin},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{fullhash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{fullhashraw}{b492f8f76713a479e084c5d1387214bc}
+      \strng{bibnamehash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{authorbibnamehash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{authornamehash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{authorfullhash}{b492f8f76713a479e084c5d1387214bc}
+      \strng{authorfullhashraw}{b492f8f76713a479e084c5d1387214bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{number}{9}
+      \field{title}{{Local Topological Order Inhibits Thermal Stability in 2D}}
+      \field{volume}{110}
+      \field{year}{2013}
+      \field{pages}{090502}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.110.090502
+      \endverb
+      \verb{eprint}
+      \verb 1209.5750
+      \endverb
+    \endentry
+    \entry{Brown:2014idi}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=ad47c8fd3568ab76ce3cc1d3d068c8da}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=484a7301172505faf210926187741479}{%
+           family={Loss},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dca71cec4a1a10de8265a1d21b3838d8}{%
+           family={Pachos},
+           familyi={P\bibinitperiod},
+           given={Jiannis\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e919b1d62dd2c291a63c67f3d32d384f}{%
+           family={Self},
+           familyi={S\bibinitperiod},
+           given={Chris\bibnamedelima N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=e6d39a3fa868c414f44693520d214a1a}{%
+           family={Wootton},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dbc73659afa11f5845502c23e3bde53}
+      \strng{fullhash}{9946b0af5561bc221e0273aed26b06d8}
+      \strng{fullhashraw}{9946b0af5561bc221e0273aed26b06d8}
+      \strng{bibnamehash}{9946b0af5561bc221e0273aed26b06d8}
+      \strng{authorbibnamehash}{9946b0af5561bc221e0273aed26b06d8}
+      \strng{authornamehash}{4dbc73659afa11f5845502c23e3bde53}
+      \strng{authorfullhash}{9946b0af5561bc221e0273aed26b06d8}
+      \strng{authorfullhashraw}{9946b0af5561bc221e0273aed26b06d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{number}{4}
+      \field{title}{{Quantum memories at finite temperature}}
+      \field{volume}{88}
+      \field{year}{2016}
+      \field{pages}{045005}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.88.045005
+      \endverb
+      \verb{eprint}
+      \verb 1411.6643
+      \endverb
+    \endentry
+    \entry{Alicki:2008nak}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=721d9462aa166bcb420db2b5ddbab347}{%
+           family={Alicki},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a7ab95b1e63182a7e96f8a2b8d549d6e}{%
+           family={Horodecki},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=59d54f92652a955a7e17ee7136b4d355}{%
+           family={Horodecki},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4634c94941468b2f650d5fac224f141b}{%
+           family={Horodecki},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d23accaedd5d6f62d9d0449ab45e90ed}
+      \strng{fullhash}{a4b27896839a1ea7cbf1df8fd376e225}
+      \strng{fullhashraw}{a4b27896839a1ea7cbf1df8fd376e225}
+      \strng{bibnamehash}{a4b27896839a1ea7cbf1df8fd376e225}
+      \strng{authorbibnamehash}{a4b27896839a1ea7cbf1df8fd376e225}
+      \strng{authornamehash}{d23accaedd5d6f62d9d0449ab45e90ed}
+      \strng{authorfullhash}{a4b27896839a1ea7cbf1df8fd376e225}
+      \strng{authorfullhashraw}{a4b27896839a1ea7cbf1df8fd376e225}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Open Systems {\&}amp; Information Dynamics}
+      \field{number}{01}
+      \field{title}{{On Thermal Stability of Topological Qubit in Kitaev's 4D Model}}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1142/S1230161210000023
+      \endverb
+      \verb{eprint}
+      \verb 0811.0033
+      \endverb
+    \endentry
+    \entry{Chesi:2009woi}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=54d518be68707e191698c68661779b1d}{%
+           family={Chesi},
+           familyi={C\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=484a7301172505faf210926187741479}{%
+           family={Loss},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=964ccce884d5c27e980e285b18d587cd}{%
+           family={Bravyi},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae66a23883f73a4e22b077d8eaad3b88}{%
+           family={Terhal},
+           familyi={T\bibinitperiod},
+           given={Barbara\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1feff0a3f35500a8210fc0c9baa0aeba}
+      \strng{fullhash}{565ae14046f62a1e42f66093935d105e}
+      \strng{fullhashraw}{565ae14046f62a1e42f66093935d105e}
+      \strng{bibnamehash}{565ae14046f62a1e42f66093935d105e}
+      \strng{authorbibnamehash}{565ae14046f62a1e42f66093935d105e}
+      \strng{authornamehash}{1feff0a3f35500a8210fc0c9baa0aeba}
+      \strng{authorfullhash}{565ae14046f62a1e42f66093935d105e}
+      \strng{authorfullhashraw}{565ae14046f62a1e42f66093935d105e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{New J. Phys.}
+      \field{title}{{Thermodynamic stability criteria for a quantum memory based on stabilizer and subsystem codes}}
+      \field{volume}{12}
+      \field{year}{2010}
+      \field{pages}{025013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/12/2/025013
+      \endverb
+      \verb{eprint}
+      \verb 0907.2807
+      \endverb
+    \endentry
+    \entry{KoteckyPreiss1986}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a1a43c874881e69a63422adfb02cce9e}{%
+           family={Kotecký},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f2fb6c763aeddd5b2b8774139e58b8d1}{%
+           family={Preiss},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{fullhash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{fullhashraw}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{bibnamehash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{authorbibnamehash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{authornamehash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{authorfullhash}{d77a2fa07255c08008c8b01cf174ffc9}
+      \strng{authorfullhashraw}{d77a2fa07255c08008c8b01cf174ffc9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0010-3616, 1432-0916}
+      \field{journaltitle}{Communications in Mathematical Physics}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Cluster expansion for abstract polymer models}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{103}
+      \field{year}{1986}
+      \field{urldateera}{ce}
+      \field{pages}{491\bibrangedash 498}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/BF01211762
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/BF01211762
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/BF01211762
+      \endverb
+    \endentry
+    \entry{FernandezProcacci2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8963b0b4791401d507898dc80f060712}{%
+           family={Fernández},
+           familyi={F\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b5ae195ef5ed8527f56b5e0f357cfb16}{%
+           family={Procacci},
+           familyi={P\bibinitperiod},
+           given={Aldo},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{fullhash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{fullhashraw}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{bibnamehash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{authorbibnamehash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{authornamehash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{authorfullhash}{fc415ad357b78c880a4b81daf7e23412}
+      \strng{authorfullhashraw}{fc415ad357b78c880a4b81daf7e23412}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-0916}
+      \field{journaltitle}{Communications in Mathematical Physics}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{Cluster Expansion for Abstract Polymer Models. New Bounds from an Old Approach}
+      \field{volume}{274}
+      \field{year}{2007}
+      \field{pages}{123\bibrangedash 140}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s00220-007-0279-2
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s00220-007-0279-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00220-007-0279-2
+      \endverb
+    \endentry
+    \entry{BissacotFernandezProcacci2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=7eeb34500a7d476f4b06e195d6247145}{%
+           family={Bissacot},
+           familyi={B\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8963b0b4791401d507898dc80f060712}{%
+           family={Fernández},
+           familyi={F\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b5ae195ef5ed8527f56b5e0f357cfb16}{%
+           family={Procacci},
+           familyi={P\bibinitperiod},
+           given={Aldo},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{c168cc1c4fe96b557fd6240319b8b828}
+      \strng{fullhash}{673af761cc16e05da7abfe4f84687916}
+      \strng{fullhashraw}{673af761cc16e05da7abfe4f84687916}
+      \strng{bibnamehash}{673af761cc16e05da7abfe4f84687916}
+      \strng{authorbibnamehash}{673af761cc16e05da7abfe4f84687916}
+      \strng{authornamehash}{c168cc1c4fe96b557fd6240319b8b828}
+      \strng{authorfullhash}{673af761cc16e05da7abfe4f84687916}
+      \strng{authorfullhashraw}{673af761cc16e05da7abfe4f84687916}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9613}
+      \field{journaltitle}{Journal of Statistical Physics}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{On the Convergence of Cluster Expansions for Polymer Gases}
+      \field{volume}{139}
+      \field{year}{2010}
+      \field{pages}{598\bibrangedash 617}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s10955-010-9956-1
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s10955-010-9956-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10955-010-9956-1
+      \endverb
+    \endentry
+    \entry{Ueltschi2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9e44b6e26c18eb1b1afca943c2fd0b1f}{%
+           family={{Ueltschi}},
+           familyi={U\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{fullhash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{fullhashraw}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{bibnamehash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{authorbibnamehash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{authornamehash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{authorfullhash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \strng{authorfullhashraw}{9e44b6e26c18eb1b1afca943c2fd0b1f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{math-ph/0304003}
+      \field{eprintclass}{math-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{3}
+      \field{title}{{Cluster expansions and correlation functions}}
+      \field{year}{2003}
+      \field{pages}{math\bibrangedash ph/0304003}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.math-ph/0304003
+      \endverb
+      \verb{eprint}
+      \verb math-ph/0304003
+      \endverb
+      \keyw{Mathematical Physics,82B05,82B10}
+    \endentry
+    \entry{KramersWannier1941}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ff8a8a28c2cd7a744d45e6d5a289b51a}{%
+           family={Kramers},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=705a9e1c92cb07bb517575d0e33c48d2}{%
+           family={Wannier},
+           familyi={W\bibinitperiod},
+           given={G.\bibnamedelimi H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{fullhash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{fullhashraw}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{bibnamehash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{authorbibnamehash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{authornamehash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{authorfullhash}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \strng{authorfullhashraw}{39df0b2a2fedc5a6b7a314fa2def46c3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{8}
+      \field{title}{Statistics of the Two-Dimensional Ferromagnet. Part I}
+      \field{volume}{60}
+      \field{year}{1941}
+      \field{pages}{252\bibrangedash 262}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1103/PhysRev.60.252
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.60.252
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.60.252
+      \endverb
+    \endentry
+    \entry{ElitzurPearsonShigemitsu1979}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b2e38618a8372d88d6b35e790aa61130}{%
+           family={Elitzur},
+           familyi={E\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5e88cd78f7f0f129779afdc4888a3590}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=5818e79be397f105c5d61723596e8805}{%
+           family={Shigemitsu},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{785c037ea2d3e561718641afca447571}
+      \strng{fullhash}{56f49d83fb04030c2ac93d351518912a}
+      \strng{fullhashraw}{56f49d83fb04030c2ac93d351518912a}
+      \strng{bibnamehash}{56f49d83fb04030c2ac93d351518912a}
+      \strng{authorbibnamehash}{56f49d83fb04030c2ac93d351518912a}
+      \strng{authornamehash}{785c037ea2d3e561718641afca447571}
+      \strng{authorfullhash}{56f49d83fb04030c2ac93d351518912a}
+      \strng{authorfullhashraw}{56f49d83fb04030c2ac93d351518912a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{12}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{month}{6}
+      \field{title}{Phase structure of discrete Abelian spin and gauge systems}
+      \field{volume}{19}
+      \field{year}{1979}
+      \field{pages}{3698\bibrangedash 3714}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.19.3698
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.19.3698
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.19.3698
+      \endverb
+    \endentry
+    \entry{UkawaWindeyGuth1980}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=8839dacca55bdf5797762e4ea6595e46}{%
+           family={Ukawa},
+           familyi={U\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f0093ef7b332cf33c31342147a89549b}{%
+           family={Windey},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b02ea1692455ac9b821fc714349745d8}{%
+           family={Guth},
+           familyi={G\bibinitperiod},
+           given={Alan\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{de8a0f22f2bd41ea467b2e001a76e7e3}
+      \strng{fullhash}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \strng{fullhashraw}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \strng{bibnamehash}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \strng{authorbibnamehash}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \strng{authornamehash}{de8a0f22f2bd41ea467b2e001a76e7e3}
+      \strng{authorfullhash}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \strng{authorfullhashraw}{6219830b0b70ba9cbf99efc4f82e3a49}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{title}{{Dual Variables for Lattice Gauge Theories and the Phase Structure of Z(N) Systems}}
+      \field{volume}{21}
+      \field{year}{1980}
+      \field{pages}{1013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.21.1013
+      \endverb
+    \endentry
+    \entry{Cardy1982}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7b47a8e862c7f8f8def92c33bc992067}{%
+           family={Cardy},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{fullhash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{fullhashraw}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{bibnamehash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{authorbibnamehash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{authornamehash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{authorfullhash}{7b47a8e862c7f8f8def92c33bc992067}
+      \strng{authorfullhashraw}{7b47a8e862c7f8f8def92c33bc992067}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl. Phys. B}
+      \field{title}{{Duality and the {\ensuremath{\theta}} parameter in Abelian lattice models}}
+      \field{volume}{205}
+      \field{year}{1982}
+      \field{pages}{17\bibrangedash 26}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/0550-3213(82)90464-3
+      \endverb
+    \endentry
+    \entry{CardyRabinovici1982}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7b47a8e862c7f8f8def92c33bc992067}{%
+           family={Cardy},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b4913bc7c0714ee2bc85b20b6e6f4d5a}{%
+           family={Rabinovici},
+           familyi={R\bibinitperiod},
+           given={Eliezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{fullhash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{fullhashraw}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{bibnamehash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{authorbibnamehash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{authornamehash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{authorfullhash}{637677e8895a2ba65aca7a0d40995ca9}
+      \strng{authorfullhashraw}{637677e8895a2ba65aca7a0d40995ca9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl. Phys. B}
+      \field{title}{{Phase structure of $Z_p$ models in the presence of a {\ensuremath{\theta}} parameter}}
+      \field{volume}{205}
+      \field{year}{1982}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/0550-3213(82)90463-1
+      \endverb
+    \endentry
+    \entry{CobaneraOrtizNussinov2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3db421dd754c57a2186945e5147e7f62}{%
+           family={Cobanera},
+           familyi={C\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b3d6cc1d1d3979c9e844372b1d6d80b1}{%
+           family={Ortiz},
+           familyi={O\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=095320c9f48525a4d4c406f6c262855e}{%
+           family={Nussinov},
+           familyi={N\bibinitperiod},
+           given={Zohar},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d5c80bc1f3619b83ae82aadaad62411}
+      \strng{fullhash}{80411f2c5deed15cc7152d07ed248400}
+      \strng{fullhashraw}{80411f2c5deed15cc7152d07ed248400}
+      \strng{bibnamehash}{80411f2c5deed15cc7152d07ed248400}
+      \strng{authorbibnamehash}{80411f2c5deed15cc7152d07ed248400}
+      \strng{authornamehash}{8d5c80bc1f3619b83ae82aadaad62411}
+      \strng{authorfullhash}{80411f2c5deed15cc7152d07ed248400}
+      \strng{authorfullhashraw}{80411f2c5deed15cc7152d07ed248400}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.stat-mech}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Adv. Phys.}
+      \field{title}{{The Bond-Algebraic Approach to Dualities}}
+      \field{volume}{60}
+      \field{year}{2011}
+      \field{pages}{679\bibrangedash 798}
+      \range{pages}{120}
+      \verb{doi}
+      \verb 10.1080/00018732.2011.619814
+      \endverb
+      \verb{eprint}
+      \verb 1103.2776
+      \endverb
+    \endentry
+    \entry{FreedTeleman2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=fe9ff8deaffced420e1b155c083b3d37}{%
+           family={Freed},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3e6d9119d616fd7f1affae85e720d086}{%
+           family={Teleman},
+           familyi={T\bibinitperiod},
+           given={Constantin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{fullhash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{fullhashraw}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{bibnamehash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{authorbibnamehash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{authornamehash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{authorfullhash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \strng{authorfullhashraw}{16d4e7f8748c2ffaebc9464fcea0a9d0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.AT}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Geom. Topol.}
+      \field{title}{{Topological dualities in the Ising model}}
+      \field{volume}{26}
+      \field{year}{2022}
+      \field{pages}{1907\bibrangedash 1984}
+      \range{pages}{78}
+      \verb{doi}
+      \verb 10.2140/gt.2022.26.1907
+      \endverb
+      \verb{eprint}
+      \verb 1806.00008
+      \endverb
+    \endentry
+    \entry{DelcampIshtiaque2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d0cfd6d8a0a6de561ef8d0e900cacf69}{%
+           family={Delcamp},
+           familyi={D\bibinitperiod},
+           given={Clement},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1a550d39a35615a397e6db3ffd3ef468}{%
+           family={Ishtiaque},
+           familyi={I\bibinitperiod},
+           given={Nafiz},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{fullhash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{fullhashraw}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{bibnamehash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{authorbibnamehash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{authornamehash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{authorfullhash}{4c92a7e3e50d123ee8f52bd501683d71}
+      \strng{authorfullhashraw}{4c92a7e3e50d123ee8f52bd501683d71}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-th}
+      \field{eprinttype}{arXiv}
+      \field{issn}{1424-0661}
+      \field{journaltitle}{Annales Henri Poincaré}
+      \field{month}{7}
+      \field{title}{Symmetry Topological Field Theory and Non-Abelian Kramers–Wannier Dualities of Generalised Ising Models}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s00023-025-01591-x
+      \endverb
+      \verb{eprint}
+      \verb 2408.06074
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s00023-025-01591-x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00023-025-01591-x
+      \endverb
+    \endentry
+    \entry{FradkinShenker1979}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f46f8dae1eed9992780e47d69f653b51}{%
+           family={Fradkin},
+           familyi={F\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cfef3ddb9d98edc5b538dd94a8db6bc0}{%
+           family={Shenker},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society (APS)}%
+      }
+      \strng{namehash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{fullhash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{fullhashraw}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{bibnamehash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{authorbibnamehash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{authornamehash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{authorfullhash}{2b02b44618b9819dc3d26b4a902619b4}
+      \strng{authorfullhashraw}{2b02b44618b9819dc3d26b4a902619b4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0556-2821}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{6}
+      \field{number}{12}
+      \field{title}{Phase diagrams of lattice gauge theories with Higgs fields}
+      \field{volume}{19}
+      \field{year}{1979}
+      \field{pages}{3682\bibrangedash 3697}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1103/physrevd.19.3682
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1103/PhysRevD.19.3682
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1103/PhysRevD.19.3682
+      \endverb
+    \endentry
+    \entry{BanksRabinovici1979}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0fe127a7a0cf2b31f3bf6e84a6756580}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b4913bc7c0714ee2bc85b20b6e6f4d5a}{%
+           family={Rabinovici},
+           familyi={R\bibinitperiod},
+           given={Eliezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{fullhash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{fullhashraw}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{bibnamehash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{authorbibnamehash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{authornamehash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{authorfullhash}{e17b3a2e6a57d94659d26db664d701fe}
+      \strng{authorfullhashraw}{e17b3a2e6a57d94659d26db664d701fe}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0550-3213}
+      \field{journaltitle}{Nuclear Physics B}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Finite-temperature behavior of the lattice abelian Higgs model}
+      \field{volume}{160}
+      \field{year}{1979}
+      \field{pages}{349\bibrangedash 379}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/0550-3213(79)90064-6
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/0550-3213(79)90064-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/0550-3213(79)90064-6
+      \endverb
+    \endentry
+    \entry{FortuinKasteleyn1972}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=6e5cc1815d5b844ab3401bc5d23ada6c}{%
+           family={Fortuin},
+           familyi={F\bibinitperiod},
+           given={C.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=919094bd83551e370d5a109c36bec60c}{%
+           family={Kasteleyn},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{fullhash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{fullhashraw}{213efa62dfef8b225b651588d74d5c20}
+      \strng{bibnamehash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{authorbibnamehash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{authornamehash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{authorfullhash}{213efa62dfef8b225b651588d74d5c20}
+      \strng{authorfullhashraw}{213efa62dfef8b225b651588d74d5c20}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica}
+      \field{title}{{On the Random cluster model. 1. Introduction and relation to other models}}
+      \field{volume}{57}
+      \field{year}{1972}
+      \field{pages}{536\bibrangedash 564}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1016/0031-8914(72)90045-6
+      \endverb
+    \endentry
+    \entry{EdwardsSokal1988}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=43310bbb55aaeba6066b0ec144882852}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=a7272e203fd436fbbea542b61efb7af2}{%
+           family={Sokal},
+           familyi={S\bibinitperiod},
+           given={Alan\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society (APS)}%
+      }
+      \strng{namehash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{fullhash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{fullhashraw}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{bibnamehash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{authorbibnamehash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{authornamehash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{authorfullhash}{d8df8fe11a04ce0daaa8654f034faa55}
+      \strng{authorfullhashraw}{d8df8fe11a04ce0daaa8654f034faa55}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0556-2821}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{9}
+      \field{number}{6}
+      \field{title}{Generalization of the Fortuin-Kasteleyn-Swendsen-Wang representation and Monte Carlo algorithm}
+      \field{volume}{38}
+      \field{year}{1988}
+      \field{pages}{2009\bibrangedash 2012}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/physrevd.38.2009
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1103/PhysRevD.38.2009
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1103/PhysRevD.38.2009
+      \endverb
+    \endentry
+    \entry{HiraokaShirai2016}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=e67047d9a7ce4b43b4ac618cc13184a7}{%
+           family={Hiraoka},
+           familyi={H\bibinitperiod},
+           given={Yasuaki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a6b367784677239bbd0e8aaec784217e}{%
+           family={Shirai},
+           familyi={S\bibinitperiod},
+           given={Tomoyuki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{fullhash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{fullhashraw}{ee215561d7c5483825f78b91f434b45d}
+      \strng{bibnamehash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{authorbibnamehash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{authornamehash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{authorfullhash}{ee215561d7c5483825f78b91f434b45d}
+      \strng{authorfullhashraw}{ee215561d7c5483825f78b91f434b45d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Tutte polynomials and random-cluster models in Bernoulli cell complexes}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1602.04561
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1602.04561
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1602.04561
+      \endverb
+    \endentry
+    \entry{DuncanSchweinhartTopological}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3102ff43c19a5859c94b50e8fd724ce9}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4fe30c508f68d4659919d1530f55ad3c}{%
+           family={Schweinhart},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{fullhash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{fullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{bibnamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorbibnamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authornamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorfullhash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorfullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{issn}{1432-0916}
+      \field{journaltitle}{Communications in Mathematical Physics}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Topological Phases in the Plaquette Random-Cluster Model and Potts Lattice Gauge Theory}
+      \field{volume}{406}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s00220-025-05322-5
+      \endverb
+      \verb{eprint}
+      \verb 2207.08339
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s00220-025-05322-5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00220-025-05322-5
+      \endverb
+    \endentry
+    \entry{DuncanSchweinhartDeconfinement}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3102ff43c19a5859c94b50e8fd724ce9}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4fe30c508f68d4659919d1530f55ad3c}{%
+           family={Schweinhart},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{fullhash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{fullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{bibnamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorbibnamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authornamehash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorfullhash}{d1137b0a74288c1d192daa4853b0b4f1}
+      \strng{authorfullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{issn}{1432-0916}
+      \field{journaltitle}{Communications in Mathematical Physics}
+      \field{month}{6}
+      \field{number}{7}
+      \field{title}{A Sharp Deconfinement Transition for Potts Lattice Gauge Theory in Codimension Two}
+      \field{volume}{406}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s00220-025-05338-x
+      \endverb
+      \verb{eprint}
+      \verb 2308.07534
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s00220-025-05338-x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00220-025-05338-x
+      \endverb
+    \endentry
+    \entry{Timmerman:2022uin}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1d749b9a8b6e8291cee6543c73258296}{%
+           family={Timmerman},
+           familyi={T\bibinitperiod},
+           given={Sydney\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9efd590638778b2aec8339c461634dd7}{%
+           family={Bandic},
+           familyi={B\bibinitperiod},
+           given={Zvonimir},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=2cf24084e1466ba6ef5b7e2315b7322a}{%
+           family={Melko},
+           familyi={M\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e25380c3f2800d86a6d61dbd37b0f832}
+      \strng{fullhash}{fd395a6de702d563114287bd2f81264e}
+      \strng{fullhashraw}{fd395a6de702d563114287bd2f81264e}
+      \strng{bibnamehash}{fd395a6de702d563114287bd2f81264e}
+      \strng{authorbibnamehash}{fd395a6de702d563114287bd2f81264e}
+      \strng{authornamehash}{e25380c3f2800d86a6d61dbd37b0f832}
+      \strng{authorfullhash}{fd395a6de702d563114287bd2f81264e}
+      \strng{authorfullhashraw}{fd395a6de702d563114287bd2f81264e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SciPost Phys. Lect. Notes}
+      \field{title}{{Quantum to classical mapping of the two-dimensional toric code in an external field}}
+      \field{volume}{57}
+      \field{year}{2022}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.21468/SciPostPhysLectNotes.57
+      \endverb
+    \endentry
+    \entry{KangasEtAl2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f7659ec740284883b310ed98f39fe7ec}{%
+           family={Kangas},
+           familyi={K\bibinitperiod},
+           given={Kustaa},
+           giveni={K\bibinitperiod}}}%
+        {{hash=577a9b82a2cc5f487c5d1526cf9708f8}{%
+           family={Kaski},
+           familyi={K\bibinitperiod},
+           given={Petteri},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f65647eaa893b75995ce8750540f8c92}{%
+           family={Korhonen},
+           familyi={K\bibinitperiod},
+           given={Janne\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e9fe5d909f66402b31c56f118ec209a3}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Mikko},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2c124df8588739271a9b68cec64665f}
+      \strng{fullhash}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \strng{fullhashraw}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \strng{bibnamehash}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \strng{authorbibnamehash}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \strng{authornamehash}{d2c124df8588739271a9b68cec64665f}
+      \strng{authorfullhash}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \strng{authorfullhashraw}{6da5cc85aa8d8276e135cd4c41f03dd0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electron. J. Comb.}
+      \field{number}{4}
+      \field{title}{On the Number of Connected Sets in Bounded Degree Graphs}
+      \field{volume}{25}
+      \field{year}{2018}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.37236/7462
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.37236/7462
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.37236/7462
+      \endverb
+    \endentry
+    \entry{SwendsenWang87}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4e3343e0be3c424dd5923849496d07c4}{%
+           family={Swendsen},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=226459c8fdcaf228b278cd085d0e65a6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jian-Sheng},
+           giveni={J\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{aff459df489376fda83f77285cafd923}
+      \strng{fullhash}{aff459df489376fda83f77285cafd923}
+      \strng{fullhashraw}{aff459df489376fda83f77285cafd923}
+      \strng{bibnamehash}{aff459df489376fda83f77285cafd923}
+      \strng{authorbibnamehash}{aff459df489376fda83f77285cafd923}
+      \strng{authornamehash}{aff459df489376fda83f77285cafd923}
+      \strng{authorfullhash}{aff459df489376fda83f77285cafd923}
+      \strng{authorfullhashraw}{aff459df489376fda83f77285cafd923}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{1}
+      \field{title}{Nonuniversal critical dynamics in Monte Carlo simulations}
+      \field{volume}{58}
+      \field{year}{1987}
+      \field{pages}{86\bibrangedash 88}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.58.86
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.58.86
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.58.86
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
