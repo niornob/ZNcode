@@ -783,6 +783,48 @@
       \verb 0907.2807
       \endverb
     \endentry
+    \entry{Nishimori1981}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e61013f5b7c23c3e00b4f6a3af6da483}{%
+           family={Nishimori},
+           familyi={N\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{fullhash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{fullhashraw}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{bibnamehash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{authorbibnamehash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{authornamehash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{authorfullhash}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \strng{authorfullhashraw}{e61013f5b7c23c3e00b4f6a3af6da483}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1347-4081}
+      \field{journaltitle}{Progress of Theoretical Physics}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Internal Energy, Specific Heat and Correlation Function of the Bond-Random Ising Model}
+      \field{volume}{66}
+      \field{year}{1981}
+      \field{pages}{1169\bibrangedash 1181}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1143/ptp.66.1169
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1143/PTP.66.1169
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1143/PTP.66.1169
+      \endverb
+    \endentry
     \entry{KoteckyPreiss1986}{article}{}{}
       \name{author}{2}{}{%
         {{hash=a1a43c874881e69a63422adfb02cce9e}{%
@@ -807,8 +849,8 @@
       \strng{authornamehash}{d77a2fa07255c08008c8b01cf174ffc9}
       \strng{authorfullhash}{d77a2fa07255c08008c8b01cf174ffc9}
       \strng{authorfullhashraw}{d77a2fa07255c08008c8b01cf174ffc9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0010-3616, 1432-0916}
@@ -859,8 +901,8 @@
       \strng{authornamehash}{fc415ad357b78c880a4b81daf7e23412}
       \strng{authorfullhash}{fc415ad357b78c880a4b81daf7e23412}
       \strng{authorfullhashraw}{fc415ad357b78c880a4b81daf7e23412}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1432-0916}
@@ -912,8 +954,8 @@
       \strng{authornamehash}{c168cc1c4fe96b557fd6240319b8b828}
       \strng{authorfullhash}{673af761cc16e05da7abfe4f84687916}
       \strng{authorfullhashraw}{673af761cc16e05da7abfe4f84687916}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1572-9613}
@@ -951,8 +993,8 @@
       \strng{authornamehash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
       \strng{authorfullhash}{9e44b6e26c18eb1b1afca943c2fd0b1f}
       \strng{authorfullhashraw}{9e44b6e26c18eb1b1afca943c2fd0b1f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{math-ph/0304003}
@@ -996,8 +1038,8 @@
       \strng{authornamehash}{39df0b2a2fedc5a6b7a314fa2def46c3}
       \strng{authorfullhash}{39df0b2a2fedc5a6b7a314fa2def46c3}
       \strng{authorfullhashraw}{39df0b2a2fedc5a6b7a314fa2def46c3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{3}
@@ -1047,8 +1089,8 @@
       \strng{authornamehash}{785c037ea2d3e561718641afca447571}
       \strng{authorfullhash}{56f49d83fb04030c2ac93d351518912a}
       \strng{authorfullhashraw}{56f49d83fb04030c2ac93d351518912a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{12}
@@ -1095,8 +1137,8 @@
       \strng{authornamehash}{de8a0f22f2bd41ea467b2e001a76e7e3}
       \strng{authorfullhash}{6219830b0b70ba9cbf99efc4f82e3a49}
       \strng{authorfullhashraw}{6219830b0b70ba9cbf99efc4f82e3a49}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Phys. Rev. D}
@@ -1125,8 +1167,8 @@
       \strng{authornamehash}{7b47a8e862c7f8f8def92c33bc992067}
       \strng{authorfullhash}{7b47a8e862c7f8f8def92c33bc992067}
       \strng{authorfullhashraw}{7b47a8e862c7f8f8def92c33bc992067}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Phys. B}
@@ -1160,8 +1202,8 @@
       \strng{authornamehash}{637677e8895a2ba65aca7a0d40995ca9}
       \strng{authorfullhash}{637677e8895a2ba65aca7a0d40995ca9}
       \strng{authorfullhashraw}{637677e8895a2ba65aca7a0d40995ca9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Phys. B}
@@ -1200,8 +1242,8 @@
       \strng{authornamehash}{8d5c80bc1f3619b83ae82aadaad62411}
       \strng{authorfullhash}{80411f2c5deed15cc7152d07ed248400}
       \strng{authorfullhashraw}{80411f2c5deed15cc7152d07ed248400}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{cond-mat.stat-mech}
@@ -1240,8 +1282,8 @@
       \strng{authornamehash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
       \strng{authorfullhash}{16d4e7f8748c2ffaebc9464fcea0a9d0}
       \strng{authorfullhashraw}{16d4e7f8748c2ffaebc9464fcea0a9d0}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{math.AT}
@@ -1284,8 +1326,8 @@
       \strng{authornamehash}{4c92a7e3e50d123ee8f52bd501683d71}
       \strng{authorfullhash}{4c92a7e3e50d123ee8f52bd501683d71}
       \strng{authorfullhashraw}{4c92a7e3e50d123ee8f52bd501683d71}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{hep-th}
@@ -1332,8 +1374,8 @@
       \strng{authornamehash}{2b02b44618b9819dc3d26b4a902619b4}
       \strng{authorfullhash}{2b02b44618b9819dc3d26b4a902619b4}
       \strng{authorfullhashraw}{2b02b44618b9819dc3d26b4a902619b4}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0556-2821}
@@ -1379,8 +1421,8 @@
       \strng{authornamehash}{e17b3a2e6a57d94659d26db664d701fe}
       \strng{authorfullhash}{e17b3a2e6a57d94659d26db664d701fe}
       \strng{authorfullhashraw}{e17b3a2e6a57d94659d26db664d701fe}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0550-3213}
@@ -1423,8 +1465,8 @@
       \strng{authornamehash}{213efa62dfef8b225b651588d74d5c20}
       \strng{authorfullhash}{213efa62dfef8b225b651588d74d5c20}
       \strng{authorfullhashraw}{213efa62dfef8b225b651588d74d5c20}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physica}
@@ -1461,8 +1503,8 @@
       \strng{authornamehash}{d8df8fe11a04ce0daaa8654f034faa55}
       \strng{authorfullhash}{d8df8fe11a04ce0daaa8654f034faa55}
       \strng{authorfullhashraw}{d8df8fe11a04ce0daaa8654f034faa55}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0556-2821}
@@ -1505,8 +1547,8 @@
       \strng{authornamehash}{ee215561d7c5483825f78b91f434b45d}
       \strng{authorfullhash}{ee215561d7c5483825f78b91f434b45d}
       \strng{authorfullhashraw}{ee215561d7c5483825f78b91f434b45d}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{math.PR}
@@ -1549,8 +1591,8 @@
       \strng{authorfullhash}{d1137b0a74288c1d192daa4853b0b4f1}
       \strng{authorfullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
       \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{math.PR}
@@ -1601,8 +1643,8 @@
       \strng{authorfullhash}{d1137b0a74288c1d192daa4853b0b4f1}
       \strng{authorfullhashraw}{d1137b0a74288c1d192daa4853b0b4f1}
       \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprintclass}{math.PR}
@@ -1653,8 +1695,8 @@
       \strng{authornamehash}{e25380c3f2800d86a6d61dbd37b0f832}
       \strng{authorfullhash}{fd395a6de702d563114287bd2f81264e}
       \strng{authorfullhashraw}{fd395a6de702d563114287bd2f81264e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{SciPost Phys. Lect. Notes}
@@ -1743,8 +1785,8 @@
       \strng{authornamehash}{aff459df489376fda83f77285cafd923}
       \strng{authorfullhash}{aff459df489376fda83f77285cafd923}
       \strng{authorfullhashraw}{aff459df489376fda83f77285cafd923}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{2}
