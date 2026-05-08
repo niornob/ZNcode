@@ -1752,7 +1752,7 @@ Introduce the homology groups
 	H_e:=H_P(\underline\Lambda).
 	\label{eq:fixed-charge-homology-groups}
 \end{equation}
-The groups $H_m$ and $H_e$ label the magnetic and electric background charges respectively, i.e., they are the groups in which the background charges \([q_m]\) and \([q_e]\) take values.
+The groups $H_m$ and $H_e$ label the topological classes of the magnetic and electric background charges respectively, i.e., they are the groups in which the homology classes \([q_m]\) and \([q_e]\) take values.
 
 Let $\delta_H(h)$ be the Kronecker delta on any abelian group $H$. Substituting \eqref{eq:connected-defect-decomposition} and
 \eqref{eq:one-polymer-factorization} into
@@ -1846,7 +1846,7 @@ configurations carrying the required homology.
 
 \subsection{Fourier resolution of the homology constraints}
 \label{sec:fixed-charge-fourier-resolution}
-We can resolve the delta constraint in the partition function \eqref{eq:fixed-charge-polymer-gas} and write it as a sum over two-species polymer gas partition functions. Each two-species partition function will be labeled by the \emph{topological sector} data $(\ell_m,\ell_e) \in \widehat H_m \times \widehat H_e$ where $\widehat H_m$ and $\widehat H_e$ are the linear duals of the $\mathbb F_N$-vector spaces $H_m$ and $H_e$ respectively. Given the background charges $(q_m,q_e) \in H_m \times H_e$ and for any $(\ell_m,\ell_e) \in \widehat H_m \times \widehat H_e$ define the 1-polymer activity
+We can resolve the delta constraint in the partition function \eqref{eq:fixed-charge-polymer-gas} and write it as a sum over two-species polymer gas partition functions. Each two-species partition function will be labeled by the \emph{topological sector} data $(\ell_m,\ell_e) \in \widehat H_m \times \widehat H_e$ where $\widehat H_m$ and $\widehat H_e$ are the linear duals of the $\mathbb F_N$-vector spaces $H_m$ and $H_e$ respectively. Given the background charges $(q_m,q_e) \in Z_{d-P}(\underline\Lambda^\vee) \times Z_P(\underline\Lambda)$ and for any $(\ell_m,\ell_e) \in \widehat H_m \times \widehat H_e$ define the 1-polymer activity
 \begin{equation}
 	\rho^{\ell_m,\ell_e;q_m,q_e}(A)
 	:=
@@ -1981,20 +1981,7 @@ Fern\'andez-Procacci, Bissacot-Fern\'andez-Procacci, and related cluster-expansi
 methods
 \cite{KoteckyPreiss1986,FernandezProcacci2007,BissacotFernandezProcacci2010,Ueltschi2004}.
 
-When the Fourier-resolved representation \eqref{eq:Zlmle} is available, the corresponding
-sector amplitudes \(\widehat{\mathcal Z}_M(\ell_m,\ell_e;q_m,q_e)\) have generally complex
-one-polymer activities \eqref{eq:fixed-background-unified-polymer-activity}, and
-opposite-species polymers interact through the pure phase \eqref{eq:MEphase}. We use these
-sector amplitudes as a convenient intermediate device, but the main conclusion
-of the section is a background-uniform low-activity region for the physical fixed-background
-partition functions \(\mathcal Z_M(q_m,q_e)\). In that region, these partition functions are
-absolutely controlled uniformly in finite volume, large connected polymers are
-exponentially suppressed, and homologically nontrivial polymers are exponentially
-suppressed on the scale of the corresponding spacetime systole. Here \emph{systole} means
-the minimal support size of a nontrivial homology cycle. The weakest input in the
-derivation of this region is the available combinatorial bound on the number of rooted
-connected closed polymers: the present boundary is controlled not by the abstract polymer
-criterion itself, but by the quality of this counting estimate.
+When the Fourier-resolved representation \eqref{eq:Zlmle} is available, the corresponding sector amplitudes \(\widehat{\mathcal Z}_M(\ell_m,\ell_e;q_m,q_e)\) have generally complex one-polymer activities \eqref{eq:fixed-background-unified-polymer-activity}, and opposite-species polymers interact through the pure phase \eqref{eq:MEphase}. In our present formulation this sector decomposition is available for prime \(N\), and in that case we first bound the sector amplitudes and then deduce bounds for the background-dependent partition functions \(\mathcal Z_M(q_m,q_e)\). However, as explained in Remark~\ref{rmk:directZmeBound}, the same fixed-background partition functions can also be bounded directly, without passing through the sector amplitudes. The outcome is a background-uniform low-activity region in which the partition functions are absolutely controlled uniformly in finite volume, large connected polymers are exponentially suppressed, and homologically nontrivial polymers are exponentially suppressed on the scale of the corresponding spacetime systole, i.e.\ the minimal support size of a nontrivial homology cycle. The main limitation in the resulting region comes not from the abstract polymer criterion itself, but from the available combinatorial bound on the number of rooted connected closed polymers.
 
 The prime-\(N\) assumption enters this section only through the sector
 decomposition \eqref{eq:Zlmle}. The positive majorant gases and the resulting low-activity
@@ -2553,6 +2540,48 @@ Since \(\sup_{a>0}e^{-a}(1-e^{-a})=1/4\), the region is nonempty whenever
 	This gives \eqref{eq:fixed-background-occupancy-bound}.
 \end{proof}
 
+\begin{remark}[Direct fixed-background majorization]\label{rmk:directZmeBound}
+	The proof of convergence for $\mathcal Z_M(q_m,q_e)$ and \eqref{eq:fixed-background-occupancy-bound}
+	can also be given without passing through the sector amplitudes
+	\(\widehat{\mathcal Z}_M(\ell_m,\ell_e;q_m,q_e)\).  Indeed, start from \eqref{eq:fixed-charge-polymer-gas} and take the absolute value. This removes the phase,
+	while the homology constraints are bounded by \(1\). Hence
+	\begin{equation}
+		|\mathcal Z_M(q_m,q_e)|
+		\le
+		\sum_{r,s\ge 0}
+		\frac{1}{r!\,s!}
+		\sum_{\substack{M_1,\dots,M_r\in \mathbb M\\ \text{pairwise disjoint}}}
+		\sum_{\substack{E_1,\dots,E_s\in \mathbb E\\ \text{pairwise disjoint}}}
+		\prod_{i=1}^r |\rho_m(M_i)|
+		\prod_{j=1}^s |\rho_e(E_j)|
+		=
+		\mathcal Z_m^{\mathrm{maj}}\mathcal Z_e^{\mathrm{maj}}.
+	\end{equation}
+	This yields the convergence of \(\mathcal Z_M(q_m,q_e)\) directly, uniformly in the
+	background pair \((q_m,q_e)\), without invoking \eqref{eq:Zlmle} or
+	\eqref{eq:Zme-deltaResolved}.
+	
+	The same idea gives the fixed-background occupancy bound. If \(A\in\mathbb A_s\),
+	differentiate the fixed-background polymer expansion directly with respect to the
+	marked activity \(\rho_s(A)\). After taking absolute values, the phase again drops
+	out, the homology constraints are bounded by \(1\), and one obtains
+	\begin{equation}
+		\left|
+		\left\langle \mathbf 1_A \right\rangle_{q_m,q_e}
+		\right|
+		\le
+		\mathcal Z_{\bar s}^{\mathrm{maj}}\,
+		|\rho_s(A)|\,
+		\frac{\partial}{\partial |\rho_s(A)|}\mathcal Z_s^{\mathrm{maj}},
+		\qquad
+		\bar m=e,\ \bar e=m.
+	\end{equation}
+	Using \eqref{eq:maj-pinned-identity} and \eqref{eq:maj-occupancy-bound} then gives
+	\eqref{eq:fixed-background-occupancy-bound} with the same constant
+	\(C_{M,\underline\Lambda,s}^{\mathrm{la}}
+	=\mathcal Z_m^{\mathrm{maj}}\mathcal Z_e^{\mathrm{maj}}\).
+\end{remark}
+
 
 
 
@@ -2743,6 +2772,9 @@ V_u:\mathbb Z_N\to\mathbb C
 are arbitrary local spacetime weights. At the end we specialize to the explicit Trotter
 weights  \eqref{eq:parallel-weights}, \eqref{eq:perp-weights}. We use the Fourier-transform conventions of Appendix~\ref{app:fourier-ZN}.
 
+
+
+
 \subsection{Duality in the fixed-charge basis}
 \label{sec:KW-fixed-charge}
 
@@ -2795,13 +2827,13 @@ Next move the differential \(D\) from \(\phi\) onto \(\lambda\). By the adjointn
 	\sum_{u\in C_P(\underline\Lambda)}(D^{\mathsf T}\lambda)_u\,\phi_u.
 	\label{eq:KW-adjointness}
 \end{equation}
-Hence
+Hence,\footnote{We use the isomorphism \eqref{eq:PX} strictly for typecasting: change the $P$-cycle $q_e$ to a $P$-cocycle $\mathcal P^{-1}_{\underline\Lambda}(q_e)$. They have the same coefficients, concretely, $\mathcal P_{\underline\Lambda}^{-1}(q_e)_u = (q_e)_u$.}
 \begin{equation}
 	\chi \left(\int_{q_e}\phi\right)
 	\prod_{c\in C_{P+1}(\underline\Lambda)}\chi_{\lambda_c} \left((D\phi)_c\right)
 	=
 	\prod_{u\in C_P(\underline\Lambda)}
-	\chi_{(q_e+D^{\mathsf T}\lambda)_u}(\phi_u),
+	\chi_{\bigl(\mathcal P_{\underline\Lambda}^{-1}(q_e)+D^{\mathsf T}\lambda\bigr)_u}(\phi_u),
 \end{equation}
 and the \(\phi\)-dependence factorizes cellwise:
 \begin{equation}
@@ -2820,7 +2852,7 @@ and the \(\phi\)-dependence factorizes cellwise:
 		\prod_{u\in C_P(\underline\Lambda)}
 		\Biggl[
 		\sum_{x\in \mathbb Z_N}
-		V_u(x)\,\chi_{(q_e+D^{\mathsf T}\lambda)_u}(x)
+		V_u(x)\,\chi_{\bigl(\mathcal P_{\underline\Lambda}^{-1}(q_e)+D^{\mathsf T}\lambda\bigr)_u}(x)
 		\Biggr].
 	\end{aligned}
 	\label{eq:KW-step2}
@@ -2834,23 +2866,23 @@ Using the inverse Fourier transform,
 \end{equation}
 we obtain
 \begin{equation}
-\begin{aligned}
-	\frac{Z_M(q_m,q_e;W,V)}{N^{|C_P(\underline\Lambda)|/2}}
-	=&\;
-	\frac{1}{N^{|C_{\check P}(\underline\Lambda^\vee)|/2}}
-	\sum_{\lambda\in \Omega^{P+1}(\underline\Lambda)}
-	\Biggl(
-	\prod_{c\in C_{P+1}(\underline\Lambda)}
-	\widehat W_c(\lambda_c)\,
-	\chi_{\lambda_c} \left((\vartheta_{\underline\Lambda}(q_m))_c\right)
-	\Biggr)
-	\\
-	& \hspace{8em} \times
-	\Biggl(
-	\prod_{u\in C_P(\underline\Lambda)}
-	\widehat V_u \left(-(D^{\mathsf T}\lambda+q_e)_u\right)
-	\Biggr),
-\end{aligned}
+	\begin{aligned}
+		\frac{Z_M(q_m,q_e;W,V)}{N^{|C_P(\underline\Lambda)|/2}}
+		=&\;
+		\frac{1}{N^{|C_{\check P}(\underline\Lambda^\vee)|/2}}
+		\sum_{\lambda\in \Omega^{P+1}(\underline\Lambda)}
+		\Biggl(
+		\prod_{c\in C_{P+1}(\underline\Lambda)}
+		\widehat W_c(\lambda_c)\,
+		\chi_{\lambda_c} \left((\vartheta_{\underline\Lambda}(q_m))_c\right)
+		\Biggr)
+		\\
+		& \hspace{8em} \times
+		\Biggl(
+		\prod_{u\in C_P(\underline\Lambda)}
+		\widehat V_u \left(-\bigl(D^{\mathsf T}\lambda+\mathcal P_{\underline\Lambda}^{-1}(q_e)\bigr)_u\right)
+		\Biggr),
+	\end{aligned}
 	\label{eq:KW-fixed-charge-primal-fourier}
 \end{equation}
 with
@@ -2901,7 +2933,7 @@ And the electric charge becomes a defect cocycle of the dual theory. Define
 \end{equation}
 which is a cocycle since $\vartheta$ is an isomorphism (Corr.~\ref{cor:complexIso}). Then
 \begin{equation}
-	(D^{\mathsf T}\lambda+q_e)_{\theta_{\underline\Lambda}(u^\vee)}
+	\bigl(D^{\mathsf T}\lambda+\mathcal P_{\underline\Lambda}^{-1}(q_e)\bigr)_{\theta_{\underline\Lambda}(u^\vee)}
 	=
 	\left(D^\vee\check\phi+q_e^\vee\right)_{u^\vee}.
 	\label{eq:KW-electric-to-dual-defect}
@@ -3011,6 +3043,7 @@ This yields the dual \(\check P\)-form partition function on \(\underline\Lambda
 	\end{equation}
 	Now dividing both sides of \eqref{eq:KW-Z-raw} by \(\mathcal N_M\) gives \eqref{eq:KW-Z}.
 \end{proof}
+
 
 
 
