@@ -626,6 +626,51 @@
       \verb 1209.5750
       \endverb
     \endentry
+    \entry{Hastings:2013jxa}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2b6ced7ad9a68118cdd8e4199aabebae}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Matthew\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=92ce65f5a641ff5ed0c03c14445dd671}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Grant\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=eb7158e0a38c158494a11fe2ebf1db17}{%
+           family={Melko},
+           familyi={M\bibinitperiod},
+           given={Roger\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3aca3cd0ef3184704cade30e3176797e}
+      \strng{fullhash}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \strng{fullhashraw}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \strng{bibnamehash}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \strng{authorbibnamehash}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \strng{authornamehash}{3aca3cd0ef3184704cade30e3176797e}
+      \strng{authorfullhash}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \strng{authorfullhashraw}{4d69bed9b79bc2ab38118dfdaafc49e5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cond-mat.str-el}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{title}{{Self-Correcting Quantum Memories Beyond the Percolation Threshold}}
+      \field{volume}{112}
+      \field{year}{2014}
+      \field{pages}{070501}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.112.070501
+      \endverb
+      \verb{eprint}
+      \verb 1309.2680
+      \endverb
+    \endentry
     \entry{Brown:2014idi}{article}{}{}
       \name{author}{5}{}{%
         {{hash=ad47c8fd3568ab76ce3cc1d3d068c8da}{%
